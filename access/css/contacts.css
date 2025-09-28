@@ -38,7 +38,7 @@ main {
 }
 
 .links a:hover {
-    background: #219150;
+	background: var(--primary-hover);
     transform: scale(1.05);
 }
 
@@ -47,4 +47,5 @@ main {
         flex-direction: column;
         width: 90%;
     }
+
 }
