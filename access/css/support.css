@@ -1,0 +1,27 @@
+main {
+    justify-content: center;
+}
+
+.block {
+    text-align: center;
+}
+
+.block p {
+    text-align: left;
+}
+
+.block a {
+    display: inline-block;
+    padding: 12px 25px;
+    background: var(--primary);
+    color: #fff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.block a:hover {
+    background: #219150;
+    transform: scale(1.05);
+}

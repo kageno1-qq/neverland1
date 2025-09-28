@@ -1,0 +1,42 @@
+  <main>
+    <!-- Блок 1 -->
+    <div class="block">
+      <h2>Блок 1</h2>
+      <div class="flex-content">
+        <img src="1.png" alt="Картинка">
+        <div class="text">
+          <h3>Подглава 1</h3>
+          <p>Здесь текст справа от картинки.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Блок 2 -->
+    <div class="block">
+      <h2>Блок 2</h2>
+      <div class="gallery-content">
+        <img src="1.png" alt="Картинка 1">
+        <img src="1.png" alt="Картинка 2">
+        <img src="1.png" alt="Картинка 3">
+      </div>
+    </div>
+
+    <!-- Блок 3 -->
+    <div class="block">
+      <h2>Блок 3</h2>
+      <div class="flex-content">
+        <div class="text">
+          <h3>Подглава 3</h3>
+          <p>Здесь текст слева от картинки.</p>
+        </div>
+        <img src="1.png" alt="Картинка">
+      </div>
+    </div>
+
+    <!-- Блок 4 -->
+    <div class="block">
+      <h2>Блок 4</h2>
+      <h3>Подглава 4</h3>
+      <p>Этот блок содержит только текст, без картинок.</p>
+    </div>
+  </main>
